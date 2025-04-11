@@ -23,8 +23,8 @@ export default function App() {
 
       {currentSection === 'home' && (
         <header className="hero">
-          <h1>Lucas Henrique Matuliones</h1>
-          <p>Desenvolvedor Full Stack</p>
+          <p className="intro-text">Desenvolvedor Full Stack</p>
+          <p className="sub-intro">Criando soluções inovadoras e funcionais para a web</p>
         </header>
       )}
 
@@ -70,6 +70,16 @@ export default function App() {
               <h3>Projeto Pokémon</h3>
               <p>Aplicação web utilizando a API de Pokémon</p>
               <a href="https://github.com/LucasMatuliones/projeto-pokemon" target="_blank" rel="noopener noreferrer">Ver projeto</a>
+            </div>
+            <div className="project-card">
+              <h3>Calculadora Python</h3>
+              <p>Calculadora simples desenvolvida em Python com interface gráfica</p>
+              <a href="https://github.com/LucasMatuliones/calculadora-python" target="_blank" rel="noopener noreferrer">Ver projeto</a>
+            </div>
+            <div className="project-card">
+              <h3>Relógio Digital</h3>
+              <p>Relógio digital interativo desenvolvido com HTML, CSS e JavaScript</p>
+              <a href="https://github.com/LucasMatuliones/relogio-digital" target="_blank" rel="noopener noreferrer">Ver projeto</a>
             </div>
           </div>
         </section>
