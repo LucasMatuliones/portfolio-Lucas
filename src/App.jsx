@@ -11,7 +11,7 @@ export default function App() {
     <div className="portfolio-dark">
       <nav className="navbar">
         <div className="nav-content">
-          <h2>LM</h2>
+          <h2>Lucas Henrique Matuliones Martins</h2>
           <div className="nav-links">
             <button onClick={() => setCurrentSection('home')}>Home</button>
             <button onClick={() => setCurrentSection('about')}>Sobre</button>
@@ -31,7 +31,11 @@ export default function App() {
       {currentSection === 'about' && (
         <section className="about">
           <h2>Sobre Mim</h2>
-          <p>Desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento web full stack.</p>
+          <p>Sou um desenvolvedor Full Stack apaixonado por criar soluções tecnológicas inovadoras que fazem a diferença. Minha jornada na programação começou com a curiosidade de entender como as coisas funcionam no mundo digital, e desde então venho me dedicando a aperfeiçoar minhas habilidades tanto no desenvolvimento front-end quanto back-end.</p>
+          
+          <p>Tenho experiência significativa em desenvolvimento web, com foco em criar aplicações robustas e intuitivas. Minha abordagem combina criatividade com metodologias ágeis, sempre buscando as melhores práticas de desenvolvimento e mantendo-me atualizado com as últimas tendências tecnológicas.</p>
+          
+          <p>Além das habilidades técnicas, valorizo muito o trabalho em equipe e a comunicação efetiva. Acredito que os melhores resultados são alcançados quando combinamos expertise técnica com colaboração e pensamento criativo.</p>
           <div className="skills">
             <h3>Habilidades</h3>
             <div className="skill-grid">
