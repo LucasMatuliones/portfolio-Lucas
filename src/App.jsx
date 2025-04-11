@@ -5,17 +5,17 @@ export default function App() {
   return (
     <div className="portfolio">
       <header>
-        <h1>John Doe</h1>
-        <p>Full Stack Developer</p>
+        <h1>Lucas Matuliones</h1>
+        <p>Desenvolvedor Full Stack</p>
       </header>
 
       <section className="about">
-        <h2>About Me</h2>
-        <p>Passionate developer with expertise in building web applications using Python (Django, Flask) and JavaScript (React, Node.js) technologies.</p>
+        <h2>Sobre Mim</h2>
+        <p>Desenvolvedor apaixonado com experiência na construção de aplicações web utilizando tecnologias Python (Django, Flask) e JavaScript (React, Node.js).</p>
       </section>
 
       <section className="skills">
-        <h2>Skills</h2>
+        <h2>Habilidades</h2>
         <div className="skill-grid">
           <div className="skill-card">Python</div>
           <div className="skill-card">Django</div>
@@ -29,25 +29,25 @@ export default function App() {
       </section>
 
       <section className="projects">
-        <h2>Projects</h2>
+        <h2>Projetos</h2>
         <div className="project-grid">
           <div className="project-card">
-            <h3>E-Commerce Platform</h3>
-            <p>Built with Django and React</p>
+            <h3>Plataforma E-Commerce</h3>
+            <p>Desenvolvido com Django e React</p>
           </div>
           <div className="project-card">
-            <h3>Task Manager API</h3>
-            <p>Developed using Flask and Node.js</p>
+            <h3>API de Gerenciamento de Tarefas</h3>
+            <p>Desenvolvido com Flask e Node.js</p>
           </div>
           <div className="project-card">
-            <h3>Portfolio Website</h3>
-            <p>Created with React</p>
+            <h3>Site Portfólio</h3>
+            <p>Criado com React</p>
           </div>
         </div>
       </section>
 
       <footer>
-        <p>Contact me at: contact@example.com</p>
+        <p>Entre em contato: lucas.matuliones@exemplo.com</p>
       </footer>
     </div>
   )
