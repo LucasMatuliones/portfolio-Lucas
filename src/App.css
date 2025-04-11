@@ -140,6 +140,18 @@ h2 {
   text-decoration: none;
 }
 
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.contact-icon {
+  font-size: 1.5rem;
+  color: var(--primary);
+}
+
 @media (max-width: 768px) {
   .nav-content {
     flex-direction: column;

@@ -1,5 +1,7 @@
 
 import { useState } from 'react'
+import { MdEmail, MdPhone } from 'react-icons/md'
+import { FaGithub } from 'react-icons/fa'
 import './App.css'
 
 export default function App() {
@@ -21,7 +23,7 @@ export default function App() {
 
       {currentSection === 'home' && (
         <header className="hero">
-          <h1>Lucas Matuliones</h1>
+          <h1>Lucas Henrique Matuliones</h1>
           <p>Desenvolvedor Full Stack</p>
         </header>
       )}
@@ -73,9 +75,18 @@ export default function App() {
         <section className="contact">
           <h2>Contato</h2>
           <div className="contact-info">
-            <p>Email: lucashenrique1782@gmail.com</p>
-            <p>Telefone: (11) 93210-0684</p>
-            <a href="https://github.com/LucasMatuliones" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <div className="contact-item">
+              <MdEmail className="contact-icon" />
+              <p>Email: lucashenrique1782@gmail.com</p>
+            </div>
+            <div className="contact-item">
+              <MdPhone className="contact-icon" />
+              <p>Telefone: (11) 93210-0684</p>
+            </div>
+            <div className="contact-item">
+              <FaGithub className="contact-icon" />
+              <a href="https://github.com/LucasMatuliones" target="_blank" rel="noopener noreferrer">GitHub</a>
+            </div>
           </div>
         </section>
       )}
