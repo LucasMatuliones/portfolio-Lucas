@@ -47,6 +47,18 @@ export default function App() {
               <div className="skill-card">CSS3</div>
               <div className="skill-card">Git</div>
               <div className="skill-card">SQL</div>
+              <div className="skill-card">TypeScript</div>
+              <div className="skill-card">MongoDB</div>
+              <div className="skill-card">Docker</div>
+              <div className="skill-card">AWS</div>
+              <div className="skill-card">Next.js</div>
+              <div className="skill-card">Redux</div>
+              <div className="skill-card">Express.js</div>
+              <div className="skill-card">REST APIs</div>
+              <div className="skill-card">Tailwind CSS</div>
+              <div className="skill-card">Jest</div>
+              <div className="skill-card">CI/CD</div>
+              <div className="skill-card">Agile</div>
             </div>
           </div>
         </section>
