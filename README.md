@@ -1,17 +1,61 @@
-## Running React on Replit
+# 💼 Portfólio Pessoal - Desenvolvedor Front-End
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Este é o meu portfólio pessoal desenvolvido com **React**, onde apresento meus projetos, habilidades e formas de contato. O objetivo deste portfólio é centralizar e expor meus trabalhos como desenvolvedor de forma profissional e acessível.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## 🚀 Tecnologias Utilizadas
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- [React](https://reactjs.org/) — Biblioteca JavaScript para interfaces
+- [React Router](https://reactrouter.com/) — Roteamento de páginas
+- [Tailwind CSS](https://tailwindcss.com/) — Estilização moderna e responsiva
+- [EmailJS](https://www.emailjs.com/) — Envio de mensagens por formulário
+- [Framer Motion](https://www.framer.com/motion/) — Animações suaves
+- [Vite](https://vitejs.dev/) — Build tool para desenvolvimento rápido
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## 📸 Funcionalidades
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- Página inicial com apresentação pessoal
+- Sessão de projetos com links para repositórios e demonstrações
+- Seção de habilidades técnicas
+- Formulário de contato funcional com envio de e-mail
+- Design responsivo (mobile, tablet e desktop)
+- Animações leves para uma experiência fluida
 
-### Typescript
+## 🧑‍💻 Como Executar Localmente
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd nome-do-repositorio
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Inicie o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+O projeto estará disponível em `http://localhost:5173`.
+
+## 🖼️ Screenshots
+
+*(Adicione aqui algumas imagens do portfólio se quiser ilustrar visualmente)*
+
+## 📬 Contato
+
+Se quiser entrar em contato, você pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil/) ou usar o formulário disponível no site.
+
+---
+
+> ⚠️ **Dica:** Personalize este `README` com seus próprios links, prints e informações específicas sobre seu estilo, stack e diferenciais.
