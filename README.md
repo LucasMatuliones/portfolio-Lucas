@@ -25,7 +25,7 @@ Este é o meu portfólio pessoal desenvolvido com **React**, onde apresento meus
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LucasMatuliones/portfolio-Lucas.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -48,14 +48,9 @@ npm run dev
 
 O projeto estará disponível em `http://localhost:5173`.
 
-## 🖼️ Screenshots
-
-*(Adicione aqui algumas imagens do portfólio se quiser ilustrar visualmente)*
 
 ## 📬 Contato
 
-Se quiser entrar em contato, você pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil/) ou usar o formulário disponível no site.
+Se quiser entrar em contato, você pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/lucas-henrique-matuliones-martins-597222185) ou usar o formulário disponível no site.
 
 ---
-
-> ⚠️ **Dica:** Personalize este `README` com seus próprios links, prints e informações específicas sobre seu estilo, stack e diferenciais.
