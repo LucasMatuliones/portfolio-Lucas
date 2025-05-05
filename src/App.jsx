@@ -103,7 +103,7 @@ export default function App() {
             <div className="project-card">
               <h3>Pokédex Web App</h3>
               <p>Aplicação web que demonstra integração avançada com APIs RESTful, gerenciamento de estado e UI responsiva. Utiliza React com TypeScript e boas práticas de desenvolvimento.</p>
-              <a href="https://github.com/LucasMatuliones/projeto-pokemon" target="_blank" rel="noopener noreferrer">Ver projeto</a>
+              <a href="https://github.com/LucasMatuliones/Pokedex-js.git" target="_blank" rel="noopener noreferrer">Ver projeto</a>
             </div>
             <div className="project-card">
               <h3>Sistema Financeiro</h3>
