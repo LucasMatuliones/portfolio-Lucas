@@ -108,12 +108,12 @@ export default function App() {
             <div className="project-card">
               <h3>Sistema Financeiro</h3>
               <p>Aplicação Python com interface gráfica para cálculos financeiros. Demonstra capacidade de desenvolver ferramentas empresariais com UI/UX profissional.</p>
-              <a href="https://github.com/LucasMatuliones/calculadora-python" target="_blank" rel="noopener noreferrer">Ver projeto</a>
+              <a href="https://github.com/LucasMatuliones/Sistema-Financeiro.git" target="_blank" rel="noopener noreferrer">Ver projeto</a>
             </div>
             <div className="project-card">
               <h3>Sistema de Monitoramento em Tempo Real</h3>
               <p>Aplicação web para monitoramento em tempo real, demonstrando habilidades em desenvolvimento frontend e manipulação de dados em tempo real.</p>
-              <a href="https://github.com/LucasMatuliones/relogio-digital" target="_blank" rel="noopener noreferrer">Ver projeto</a>
+              <a href="https://github.com/LucasMatuliones/relogio-css-js.git" target="_blank" rel="noopener noreferrer">Ver projeto</a>
             </div>
             <div className="project-card">
               <h3>Automação Web com Selenium</h3>
